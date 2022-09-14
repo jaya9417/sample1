@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 first line for audio
+=======
+audio created
+>>>>>>> master
